@@ -20,6 +20,12 @@ Having a passion for cybersecurity.
 ## Network and Security
 ![CISCO Meraki](https://img.shields.io/badge/CISCO_Meraki-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![Aruba Clearpass](https://img.shields.io/badge/ARUBA_Clearpass-3D5463?style=for-the-badge&logo=aruba&logoColor=white) ![Arcon](https://img.shields.io/badge/Arcon_PAM-C01818.svg?style=for-the-badge&logo=arcon&logoColor=white)
 
+## Projects
+## 1. Mastercard Cybersecurity virtual experience program on Forage - September 2024
+- Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team.
+- Helped identify and report security threats such as phishing.
+- Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aaronlam443&theme=calm&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aaronlam443&theme=calm&hide_border=false)<br/>
