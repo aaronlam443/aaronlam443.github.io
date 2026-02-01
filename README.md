@@ -1,24 +1,130 @@
-Hello 👋, I'm Aaron Lam
+# 👋 Hi, I’m Aaron Lam
 
-IT End User Support and Infrastructure Engineer
+**IT Engineer → Cybersecurity Professional**  
+📍 Singapore | 🇸🇬 PR (Malaysian)  
+🔗 LinkedIn: https://linkedin.com/in/aaronlam443
 
-Having a passion for cybersecurity.
+---
 
-# 💫 About Me
-- 🤝 I’m looking for help with growing my skillsets for cybersecurity.
-- 🌱 I’m currently learning cybersecurity.
+## 🔐 Cybersecurity-Focused IT Professional
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaronlam443/) 
+Strategic and results-driven **IT Engineer with 10+ years of enterprise experience**, currently transitioning into **Cybersecurity**. Strong foundation in **endpoint security, access control, incident handling, and vulnerability remediation**, with hands-on exposure to real-world outages and security operations.
 
-## Cybersecurity
-![McAfee](https://img.shields.io/badge/McAfee-C01818?style=for-the-badge&logo=mcafee&logoColor=white) 
+I specialize in **bridging IT operations with security-by-design principles**, ensuring systems are resilient and compliant.
 
-## Software Development
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Veeam](https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white) ![Active Directory Users and Computers](https://img.shields.io/badge/Windows_Active_Directory-80B3FF.svg?style=for-the-badge&logo=windows-active-directory-users-and-computers&logoColor=white) ![VMWare_ESXi](https://img.shields.io/badge/VMWare-ESXi-607078.svg?style=for-the-badge&logo=vmware&logoColor=white) ![BeyondTrust](https://img.shields.io/badge/BeyondTrust-F26822?style=for-the-badge&logo=beyondtrust&logoColor=white) ![ZohoAssist](https://img.shields.io/badge/ZohoAssist-E42527.svg?style=for-the-badge&logo=zoho&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF.svg?style=for-the-badge&logo=adobelightroom&logoColor=white)
+🎯 **Target Roles**
+- IT Security Engineer  
+- Information Security Analyst  
+- Network Security Engineer  
+- Cybersecurity Engineer  
 
-## Network and Security
-![CISCO Meraki](https://img.shields.io/badge/CISCO_Meraki-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![Aruba Clearpass](https://img.shields.io/badge/ARUBA_Clearpass-3D5463?style=for-the-badge&logo=aruba&logoColor=white) ![Arcon](https://img.shields.io/badge/Arcon_PAM-C01818.svg?style=for-the-badge&logo=arcon&logoColor=white)
+---
+
+## 🧠 Core Security & Technical Skills
+
+### 🔎 Security & Networking
+- Vulnerability Assessment & Scanning (Nmap, Kali Linux, Burp Suite)
+- Network Analysis (Wireshark, TCP/IP, Basic Network Protocols)
+- Endpoint Hardening & Patch Management
+- Incident Triage & Escalation
+- RBAC & Least Privilege Enforcement
+
+### 🖥️ Enterprise IT & Systems
+- Endpoint Management: Microsoft Intune, SCCM
+- Identity & Access: Active Directory
+- Backup & Recovery: Veeam, Acronis
+- OS: Windows, Linux, macOS, Ubuntu
+- Virtualization: VMware ESXi
+
+### 🧰 Tools & Platforms
+- ServiceNow, BMC Remedy  
+- Bomgar, Zoho Assist  
+- BitLocker, Microsoft Defender, McAfee  
+
+---
+
+## 🏢 Professional Experience
+
+### Tata Consultancy Services (TCS)  
+**IT Engineer / Assistant Consultant** | *Nov 2024 – Present*
+- Delivered IT solutions aligned with **security-by-design** and compliance requirements  
+- Managed endpoint security baselines using **Intune & Active Directory**  
+- Performed incident triage, log analysis, and root-cause investigations  
+- Maintained security-related tickets and documentation to support audits  
+
+**🏆 Achievement**
+- Reduced vulnerable endpoints by **80%** by collaborating with security teams to deploy patching, hardening, and remediation via **Intune & SCCM**.
+- Partnered with a cross-team colleague to troubleshoot and remediated a Kaye Validator AVS (Advanced Validation System) application failure on standard domain-joined accounts, resolved a critical issue that had persisted for over six months within a single day.
+
+
+---
+
+### Olam International (Contract)  
+**IT Engineer** | *Aug 2023 – Nov 2024*
+- Conducted secure on-site incident diagnosis and remediation  
+- Coordinated vulnerability remediation and patch management  
+- Enforced **RBAC** and least-privilege access models  
+
+**🏆 Achievement**
+- Designed and executed a phased recovery plan during the **2024 CrowdStrike outage**, restoring operations through controlled batch remediation
+
+---
+
+### UOB (Contract)  
+**IT Helpdesk** | *Nov 2019 – Aug 2023*
+- Supported IAM lifecycle (joiner/mover/leaver)  
+- Monitored and escalated potential security incidents  
+
+**🏆 Achievement**
+- Led a **7-member Helpdesk team** to maintain uninterrupted IT & security operations for 3 months
+
+---
+
+### NCS (Contract)  
+**IT Helpdesk** | *Jun 2017 – Nov 2019*
+- IAM operations and account lifecycle management  
+- Monitored and escalated security alerts per IR procedures  
+
+---
+
+### IDS Sdn. Bhd. (Malaysia)  
+**IT Helpdesk** | *Apr 2013 – May 2017*
+- RBAC administration and access governance  
+- 24/7 monitoring of security events and anomaly escalation  
+
+---
+
+## 🎓 Education
+
+**Singapore Institute of Management (SIM)** | *Jul 2025 – Nov 2025*  
+SCTP Cybersecurity: Professional Certificate in Network Security & Digital Forensics
+
+**Universiti Tun Abdul Razak (Malaysia)** | *Aug 2009 – Aug 2012*  
+Bachelor of Education (Language & Literature)
+
+---
+
+## 📜 Professional Certifications
+- CompTIA A+ (Jul 2023 – Jul 2026)  
+- Google Cybersecurity Professional Certificate (Jan 2025)
+
+---
+
+## 💡 Professional Strengths
+- Analytical & Critical Thinking  
+- Incident Response Mindset  
+- Documentation & Audit Readiness  
+- Cross-Functional Collaboration  
+- Security Awareness & Ethics  
+
+---
+
+## 🚀 Next Steps (Planned Projects)
+- SOC Lab Writeups (Wireshark, Incident Triage, Detection Notes)
+- Security+ Notes / Mindmaps
+- Vulnerability Scanning + Reporting Practice
+- Active Directory / IAM Hardening Checklist
+
 
 ## Projects
 ## 1. Mastercard Cybersecurity virtual experience program on Forage - September 2024
@@ -26,7 +132,4 @@ Having a passion for cybersecurity.
 - Helped identify and report security threats such as phishing.
 - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aaronlam443&theme=calm&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aaronlam443&theme=calm&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronlam443&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
