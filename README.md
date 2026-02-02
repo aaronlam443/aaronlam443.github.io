@@ -57,7 +57,7 @@ I specialize in **bridging IT operations with security-by-design principles**, e
 **🏆 Achievement**
 - Reduced vulnerable endpoints by **80%** by collaborating with security teams to deploy patching, hardening, and remediation via **Intune & SCCM**.
 - Partnered with a cross-team colleague to troubleshoot and remediated a Kaye Validator AVS (Advanced Validation System) application failure on standard domain-joined accounts, resolved a critical issue that had persisted for over six months within a single day therefore saved the company S$10,000 (US$8,000).
-- Collaborated with cross-functional IT teams to securely remediate a standalone software issue in compliance with security controls, avoiding hardware replacement and achieving S$32,300 (US$25,500) in cost savings.
+- Collaborated with cross-functional IT teams to securely remediate a standalone Fluke Vibration software issue in compliance with security controls, avoiding hardware replacement and achieving S$32,300 (US$25,500) in cost savings.
 
 
 
