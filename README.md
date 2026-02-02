@@ -16,7 +16,9 @@ I specialize in **bridging IT operations with security-by-design principles**, e
 - IT Security Engineer  
 - Information Security Analyst  
 - Network Security Engineer  
-- Cybersecurity Engineer  
+- Cybersecurity Engineer
+- Penetration Tester
+- SOC Analyst
 
 ---
 
